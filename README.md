@@ -1,2 +1,2 @@
 # UXDesign
-Sample KB Design
+Sample KB Design using HTML and CSS. 
