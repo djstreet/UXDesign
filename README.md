@@ -1,2 +1,10 @@
 # UXDesign
-Sample KB built using HTML and CSS. 
+Sample KB built in 48 hours using HTML and CSS. Basic app design with the following UX Design principles:
+- Accessibility
+- Hierarchy
+- Consistency
+- Usability
+- User-centricity
+- Context
+- Feedback
+  
